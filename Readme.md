@@ -20,18 +20,18 @@ Exercises
 
 - [x] 7. Attributes In JSX
 
-- [ ] 8. Nested JSX
+- [x] 8. Nested JSX
 
-- [ ] 9. JSX Outer Elements
+- [x] 9. JSX Outer Elements
 
-- [ ] 10. Rendering JSX
+- [x] 10. Rendering JSX
 
-- [ ] 11. ReactDOM.render() I
+- [x] 11. ReactDOM.render() I
 
-- [ ] 12. ReactDOM.render() II
+- [x] 12. ReactDOM.render() II
 
-- [ ] 13. Passing a Variable to ReactDOM.render()
+- [x] 13. Passing a Variable to ReactDOM.render()
 
-- [ ] 14. The Virtual DOM
+- [x] 14. The Virtual DOM
 
-- [ ] 15. JSX Recap
+- [x] 15. JSX Recap
