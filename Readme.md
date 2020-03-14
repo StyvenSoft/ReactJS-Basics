@@ -1,7 +1,7 @@
 # ReactJS Basics codecademy
 
 Intro to JSX
-LESSON
+LESSON 1
 An introduction to JSX fundamentals.
 
 Exercises
@@ -35,3 +35,47 @@ Exercises
 - [x] 14. The Virtual DOM
 
 - [x] 15. JSX Recap
+
+
+Advanced JSX
+LESSON 2
+Learn more about JSX!
+
+Exercises
+
+- [x] 1. class vs className
+
+- [x] 2. Self-Closing Tags
+
+- [x] 3. JavaScript In Your JSX In Your JavaScript
+
+- [x] 4. Curly Braces in JSX
+
+- [x] 5. 20 Digits of Pi in JSX
+
+- [x] 6. Variables in JSX
+
+- [ ] 7. Variable Attributes in JSX
+
+- [ ] 8. Event Listeners in JSX
+
+- [ ] 9. JSX Conditionals: If Statements That Don't Work
+
+- [ ] 10. JSX Conditionals: If Statements That Do Work
+
+- [ ] 11. JSX Conditionals: The Ternary Operator
+
+- [ ] 12. JSX Conditionals: &&
+
+- [ ] 13. .map in JSX
+
+- [ ] 14. Keys
+
+- [ ] 15. React.createElement
+
+- [ ] 16. JSX Recap
+
+
+---
+
+[React Documentation](https://es.reactjs.org/docs/getting-started.html)
