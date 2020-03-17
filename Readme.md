@@ -55,11 +55,11 @@ Exercises
 
 - [x] 6. Variables in JSX
 
-- [ ] 7. Variable Attributes in JSX
+- [x] 7. Variable Attributes in JSX
 
-- [ ] 8. Event Listeners in JSX
+- [x] 8. Event Listeners in JSX
 
-- [ ] 9. JSX Conditionals: If Statements That Don't Work
+- [x] 9. JSX Conditionals: If Statements That Don't Work
 
 - [ ] 10. JSX Conditionals: If Statements That Do Work
 
