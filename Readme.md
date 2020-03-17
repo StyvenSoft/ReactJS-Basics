@@ -61,19 +61,43 @@ Exercises
 
 - [x] 9. JSX Conditionals: If Statements That Don't Work
 
-- [ ] 10. JSX Conditionals: If Statements That Do Work
+- [x] 10. JSX Conditionals: If Statements That Do Work
 
-- [ ] 11. JSX Conditionals: The Ternary Operator
+- [x] 11. JSX Conditionals: The Ternary Operator
 
-- [ ] 12. JSX Conditionals: &&
+- [x] 12. JSX Conditionals: &&
 
-- [ ] 13. .map in JSX
+- [x] 13. .map in JSX
 
-- [ ] 14. Keys
+- [x] 14. Keys
 
-- [ ] 15. React.createElement
+- [x] 15. [React.createElement](https://reactjs.org/docs/react-api.html#react.createelement)
 
-- [ ] 16. JSX Recap
+- [x] 16. JSX Recap
+
+Your First React Component
+LESSON 3
+Learn how to create your first react component.
+
+Exercises
+
+- [ ] 1. Hello World, Part II... THE COMPONENT
+
+- [ ] 2. Import React
+
+- [ ] 3. Import ReactDOM
+
+- [ ] 4. Create a Component Class
+
+- [ ] 5. Name a Component Class
+
+- [ ] 6. Component Class Instructions
+
+- [ ] 7. The Render Function
+
+- [ ] 8. Create a Component Instance
+
+- [ ] 9. Render A Component
 
 
 ---
