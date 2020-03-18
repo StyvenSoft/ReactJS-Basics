@@ -114,11 +114,11 @@ Apply your knowledge of JSX to React components.
 
 Exercises
 
-- [ ] 1. Use Multiline JSX in a Component
+- [x] 1. Use Multiline JSX in a Component
 
-- [ ] 2. Use a Variable Attribute in a Component
+- [x] 2. Use a Variable Attribute in a Component
 
-- [ ] 3. Put Logic in a Render Function
+- [x] 3. Put Logic in a Render Function
 
 - [ ] 4. Use a Conditional in a Render Function
 
