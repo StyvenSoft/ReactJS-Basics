@@ -1,7 +1,9 @@
 # ReactJS Basics codecademy
 
 Intro to JSX
+
 LESSON 1
+
 An introduction to JSX fundamentals.
 
 Exercises
@@ -38,7 +40,9 @@ Exercises
 
 
 Advanced JSX
+
 LESSON 2
+
 Learn more about JSX!
 
 Exercises
@@ -76,28 +80,53 @@ Exercises
 - [x] 16. JSX Recap
 
 Your First React Component
+
 LESSON 3
+
 Learn how to create your first react component.
 
 Exercises
 
-- [ ] 1. Hello World, Part II... THE COMPONENT
+- [x] 1. Hello World, Part II... THE COMPONENT
 
-- [ ] 2. Import React
+- [x] 2. Import React
 
-- [ ] 3. Import ReactDOM
+- [x] 3. Import ReactDOM
 
-- [ ] 4. Create a Component Class
+- [x] 4. Create a Component Class
 
-- [ ] 5. Name a Component Class
+- [x] 5. Name a Component Class
 
-- [ ] 6. Component Class Instructions
+- [x] 6. Component Class Instructions
 
-- [ ] 7. The Render Function
+- [x] 7. The Render Function
 
-- [ ] 8. Create a Component Instance
+- [x] 8. Create a Component Instance
 
-- [ ] 9. Render A Component
+- [x] 9. Render A Component
+
+
+Components and Advanced JSX
+
+LESSON 4
+
+Apply your knowledge of JSX to React components.
+
+Exercises
+
+- [ ] 1. Use Multiline JSX in a Component
+
+- [ ] 2. Use a Variable Attribute in a Component
+
+- [ ] 3. Put Logic in a Render Function
+
+- [ ] 4. Use a Conditional in a Render Function
+
+- [ ] 5. Use this in a Component
+
+- [ ] 6. Use an Event Listener in a Component
+
+- [ ] 7. Components Recap
 
 
 ---
