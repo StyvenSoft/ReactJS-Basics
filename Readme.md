@@ -120,13 +120,33 @@ Exercises
 
 - [x] 3. Put Logic in a Render Function
 
-- [ ] 4. Use a Conditional in a Render Function
+- [x] 4. Use a Conditional in a Render Function
 
-- [ ] 5. Use this in a Component
+- [x] 5. Use this in a Component
 
-- [ ] 6. Use an Event Listener in a Component
+- [x] 6. Use an Event Listener in a Component
 
-- [ ] 7. Components Recap
+- [x] 7. Components Recap
+
+Components Render Other Components
+
+LESSON 5
+
+Learn how and why components render other components.
+
+Exercises
+
+- [ ] 1. Components Interact
+
+- [ ] 2. A Component in a Render Function
+
+- [ ] 3. Apply a Component in a Render Function
+
+- [ ] 4. Require A File
+
+- [ ] 5. export
+
+- [ ] 6. Component Rendering In Action
 
 
 ---
