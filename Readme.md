@@ -136,19 +136,53 @@ Learn how and why components render other components.
 
 Exercises
 
-- [ ] 1. Components Interact
+- [x] 1. Components Interact
 
-- [ ] 2. A Component in a Render Function
+- [x] 2. A Component in a Render Function
 
-- [ ] 3. Apply a Component in a Render Function
+- [x] 3. Apply a Component in a Render Function
 
-- [ ] 4. Require A File
+- [x] 4. Require A File
 
-- [ ] 5. export
+- [x] 5. export
 
-- [ ] 6. Component Rendering In Action
+- [x] 6. Component Rendering In Action
 
+this.props
 
+LESSON 6
+
+Learn about one of the ways to store dynamic information in React: this.props.
+
+Exercises
+
+- [ ] 1. this.props
+
+- [ ] 2. Access a Component's props
+
+- [ ] 3. Pass `props` to a Component
+
+- [ ] 4. Render a Component's props
+
+- [ ] 5. Pass props From Component To Component
+
+- [ ] 6. Render Different UI Based on props
+
+- [ ] 7. Put an Event Handler in a Component Class
+
+- [ ] 8. Pass an Event Handler as a prop
+
+- [ ] 9. Receive an Event Handler as a prop
+
+- [ ] 10. handleEvent, onEvent, and this.props.onEvent
+
+- [ ] 11. this.props.children
+
+- [ ] 12. defaultProps
+
+- [ ] 13. this.props Recap
 ---
 
 [React Documentation](https://es.reactjs.org/docs/getting-started.html)
+
+
