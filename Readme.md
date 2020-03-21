@@ -156,15 +156,15 @@ Learn about one of the ways to store dynamic information in React: this.props.
 
 Exercises
 
-- [ ] 1. this.props
+- [x] 1. this.props
 
-- [ ] 2. Access a Component's props
+- [x] 2. Access a Component's props
 
-- [ ] 3. Pass `props` to a Component
+- [x] 3. Pass `props` to a Component
 
-- [ ] 4. Render a Component's props
+- [x] 4. Render a Component's props
 
-- [ ] 5. Pass props From Component To Component
+- [x] 5. Pass props From Component To Component
 
 - [ ] 6. Render Different UI Based on props
 
