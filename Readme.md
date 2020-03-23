@@ -166,21 +166,45 @@ Exercises
 
 - [x] 5. Pass props From Component To Component
 
-- [ ] 6. Render Different UI Based on props
+- [x] 6. Render Different UI Based on props
 
-- [ ] 7. Put an Event Handler in a Component Class
+- [x] 7. Put an Event Handler in a Component Class
 
-- [ ] 8. Pass an Event Handler as a prop
+- [x] 8. Pass an Event Handler as a prop
 
-- [ ] 9. Receive an Event Handler as a prop
+- [x] 9. Receive an Event Handler as a prop
 
-- [ ] 10. handleEvent, onEvent, and this.props.onEvent
+- [x] 10. handleEvent, onEvent, and this.props.onEvent
 
-- [ ] 11. this.props.children
+- [x] 11. this.props.children
 
-- [ ] 12. defaultProps
+- [x] 12. defaultProps
 
-- [ ] 13. this.props Recap
+- [x] 13. this.props Recap
+
+
+this.state
+
+LESSON 7
+
+Learn about the other way to store dynamic information in React: this.state.
+
+Exercises
+
+- [ ] 1. State
+
+- [ ] 2. Setting Initial State
+
+- [ ] 3. Access a Component's state
+
+- [ ] 4. Update state with this.setState
+
+- [ ] 5. Call this.setState from Another Function
+
+- [ ] 6. this.setState Automatically Calls render
+
+- [ ] 7. Components Interacting Recap
+
 ---
 
 [React Documentation](https://es.reactjs.org/docs/getting-started.html)
