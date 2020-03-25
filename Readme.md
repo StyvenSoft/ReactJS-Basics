@@ -191,19 +191,19 @@ Learn about the other way to store dynamic information in React: this.state.
 
 Exercises
 
-- [ ] 1. State
+- [x] 1. State
 
-- [ ] 2. Setting Initial State
+- [x] 2. Setting Initial State
 
-- [ ] 3. Access a Component's state
+- [x] 3. Access a Component's state
 
-- [ ] 4. Update state with this.setState
+- [x] 4. Update state with this.setState
 
-- [ ] 5. Call this.setState from Another Function
+- [x] 5. Call this.setState from Another Function
 
-- [ ] 6. this.setState Automatically Calls render
+- [x] 6. this.setState Automatically Calls render
 
-- [ ] 7. Components Interacting Recap
+- [x] 7. Components Interacting Recap
 
 ---
 
