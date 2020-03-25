@@ -205,6 +205,24 @@ Exercises
 
 - [x] 7. Components Interacting Recap
 
+Stateless Components From Stateful Components
+
+LESSON 8
+
+Learn to pass props from a stateful component to a stateless component
+
+Exercises
+
+- [x] 1. Stateless Components Inherit From Stateful Components
+
+- [x] 2. Build a Stateful Component Class
+
+- [x] 3. Build a Stateless Component Class
+
+- [x] 4. Pass a Component's State
+
+- [x] 5. Don't Update props
+
 ---
 
 [React Documentation](https://es.reactjs.org/docs/getting-started.html)
