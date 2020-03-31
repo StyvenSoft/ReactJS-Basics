@@ -41,4 +41,48 @@ const CurrentDate = (props) => {
       );
     }
   };
+
   
+  // pasar una matriz como Props
+
+// Para pasar una matriz a un elemento JSX, debe tratarse como JavaScript y envolverse entre llaves.
+
+<ParentComponent>
+  <ChildComponent colors={["green", "blue", "red"]} />
+</ParentComponent>
+
+// El componente hijo tiene acceso a la propiedad de matriz colors
+
+// Métodos de matriz como los que join()se pueden usar al acceder a la propiedad.
+
+const ChildComponent = (props) => <p>{props.colors.join(', ')}</p>
+
+// Esto unirá todos los colorselementos de la matriz en una cadena separada por comas y producirá: <p>green, blue, red</p>
+
+// Example :
+
+
+const List = (props) => {
+    { /* change code below this line */ }
+    return <p>{props.tasks.join(', ')}</p>;
+    { /* change code above this line */ }
+  };
+  
+  class ToDo extends React.Component {
+    constructor(props) {
+      super(props);
+    }
+    render() {
+      return (
+        <div>
+          <h1>To Do Lists</h1>
+          <h2>Today</h2>
+          { /* change code below this line */ }
+          <List tasks={["Walk", "Cook", "Bake"]} />
+          <h2>Tomorrow</h2>
+          { /* change code above this line */ }
+          <List tasks={["Study", "Code", "Eat"]} />
+        </div>
+      );
+    }
+  };
