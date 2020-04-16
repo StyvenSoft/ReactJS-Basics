@@ -22,7 +22,7 @@ class Contact extends React.Component {
 
   render() {
     let login = (
-      <form action="#">
+      <form action="#" onSubmit={this.authorize}>
          <input 
       type="password" 
       placeholder="Password" />
@@ -30,11 +30,7 @@ class Contact extends React.Component {
       </form>
     );
     const contactInfo = (
-    );
-    return (
-      <div id="authorization">
-        <h1>{ this.state.authorized ? 'Contact' : 'Enter the Password' }</h1>
-        <ul>
+      <ul>
           <li>
             client@example.com
           </li>
@@ -42,6 +38,11 @@ class Contact extends React.Component {
             555.555.5555
           </li>
         </ul>
+    );
+    return (
+      <div id="authorization">
+        <h1>{ this.state.authorized ? contactInfo : login }</h1>
+        
       </div>
     );
   }
