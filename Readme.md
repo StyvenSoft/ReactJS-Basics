@@ -231,15 +231,23 @@ Learn how to make a child component update its parent.
 
 Exercises
 
-- [ ] 1. Child Components Update Their Parents' state
+- [x] 1. Child Components Update Their Parents' state
 
-- [ ] 2. Define an Event Handler
+- [x] 2. Define an Event Handler
 
-- [ ] 3. Pass the Event Handler
+- [x] 3. Pass the Event Handler
 
-- [ ] 4. Receive the Event Handler
+- [x] 4. Receive the Event Handler
 
-- [ ] 5. Automatic Binding
+- [x] 5. Automatic Binding
+
+- [ ] 6. One Sibling to Display, Another to Change
+
+- [ ] 7. Pass the Right props to the Right Siblings
+
+- [ ] 8. Display Information in a Sibling Component
+
+- [ ] 9. Stateless Components Inherit From Stateful
 
 ---
 

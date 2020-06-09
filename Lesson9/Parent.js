@@ -7,6 +7,8 @@ class Parent extends React.Component {
     super(props);
 
     this.state = { name: 'Frarthur' };
+
+    this.changeName = this.changeName.bind(this);
   }
   changeName(newName) {
       this.setState({
@@ -15,7 +17,7 @@ class Parent extends React.Component {
     }
 
   render() {
-    return <Child name={this.state.name} />
+    return <Child name={this.state.name} onChange={this.changeName} />
   }
 }
 
