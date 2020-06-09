@@ -223,6 +223,24 @@ Exercises
 
 - [x] 5. Don't Update props
 
+Child Components Update Their Parents' state
+
+LESSON 9
+
+Learn how to make a child component update its parent.
+
+Exercises
+
+- [ ] 1. Child Components Update Their Parents' state
+
+- [ ] 2. Define an Event Handler
+
+- [ ] 3. Pass the Event Handler
+
+- [ ] 4. Receive the Event Handler
+
+- [ ] 5. Automatic Binding
+
 ---
 
 [React Documentation](https://es.reactjs.org/docs/getting-started.html)
