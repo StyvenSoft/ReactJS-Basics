@@ -241,13 +241,34 @@ Exercises
 
 - [x] 5. Automatic Binding
 
-- [ ] 6. One Sibling to Display, Another to Change
+- [x] 6. One Sibling to Display, Another to Change
 
-- [ ] 7. Pass the Right props to the Right Siblings
+- [x] 7. Pass the Right props to the Right Siblings
 
-- [ ] 8. Display Information in a Sibling Component
+- [x] 8. Display Information in a Sibling Component
 
-- [ ] 9. Stateless Components Inherit From Stateful
+- [x] 9. Stateless Components Inherit From Stateful
+
+Style
+
+LESSON 10
+
+Learn simple styling in React.
+
+Exercises
+
+- [ ] 1. Advanced React Techniques
+
+- [ ] 2. Inline Styles
+
+- [ ] 3. Make A Style Object Variable
+
+- [ ] 4. Style Name Syntax
+
+- [ ] 5. Style Value Syntax
+
+- [ ] 6. Share Styles Across Multiple Components
+
 
 ---
 
