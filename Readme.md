@@ -257,17 +257,17 @@ Learn simple styling in React.
 
 Exercises
 
-- [ ] 1. Advanced React Techniques
+- [x] 1. Advanced React Techniques
 
-- [ ] 2. Inline Styles
+- [x] 2. Inline Styles
 
-- [ ] 3. Make A Style Object Variable
+- [x] 3. Make A Style Object Variable
 
-- [ ] 4. Style Name Syntax
+- [x] 4. Style Name Syntax
 
-- [ ] 5. Style Value Syntax
+- [x] 5. Style Value Syntax
 
-- [ ] 6. Share Styles Across Multiple Components
+- [x] 6. Share Styles Across Multiple Components
 
 
 ---
