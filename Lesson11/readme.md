@@ -5,11 +5,11 @@ Learn to use forms in React.
 
 Exercises
 
-- [ ] 1. React Forms
+- [x] 1. React Forms
 
-- [ ] 2. Input onChange
+- [x] 2. Input onChange
 
-- [ ] 3. Write an Input Event Handler
+- [x] 3. Write an Input Event Handler
 
 - [ ] 4. Set the Input's Initial State
 
