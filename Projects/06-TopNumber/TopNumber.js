@@ -8,6 +8,14 @@ export class TopNumber extends React.Component {
 
     this.state = { 'highest': 0 };
   }
+
+  componentWillUpdate(nextProps, nextState) {
+    if(document.body.style.background != yellow && this.state.highest >= 950*1000) {
+        document.body.style.background = yellow;
+    } else if (!this.props.game && nextProps.game) {
+        document.body.style.background = 'white';
+    }
+  }
   
   componentWillReceiveProps(nextProps) {
     if (nextProps.number > this.state.highest) {
