@@ -10,31 +10,31 @@ Exercises
 
 - [x] 1. Why React?
 
-- [x] 2. Hello World
+- [x] 2. [Hello World](./Lesson1/helloWord.js)
 
 - [x] 3. The Mystery, Revealed
 
 - [x] 4. What is JSX?
 
-- [x] 5. JSX Elements
+- [x] 5. [JSX Elements](./Lesson1/JSXElements.js)
 
 - [x] 6. JSX Elements And Their Surroundings
 
-- [x] 7. Attributes In JSX
+- [x] 7. [Attributes In JSX](./Lesson1/AttributesInJSX.js)
 
-- [x] 8. Nested JSX
+- [x] 8. [Nested JSX](./Lesson1/NestedJSX.js)
 
-- [x] 9. JSX Outer Elements
+- [x] 9. [JSX Outer Elements](./Lesson1/JSXOuterElements.js)
 
-- [x] 10. Rendering JSX
+- [x] 10. [Rendering JSX](.Lesson1/RenderingJSX.js)
 
 - [x] 11. ReactDOM.render() I
 
-- [x] 12. ReactDOM.render() II
+- [x] 12. [ReactDOM.render() II](./Lesson1/ReactDOM-render.js)
 
 - [x] 13. Passing a Variable to ReactDOM.render()
 
-- [x] 14. The Virtual DOM
+- [x] 14. [The Virtual DOM](./Lesson1/TheVirtualDOM.js)
 
 - [x] 15. JSX Recap
 
@@ -47,23 +47,23 @@ Learn more about JSX!
 
 Exercises
 
-- [x] 1. class vs className
+- [x] 1. [class vs className](./Lesson2/classVSclassName.js)
 
-- [x] 2. Self-Closing Tags
+- [x] 2. [Self-Closing Tags](./Lesson2/Self-ClosingTags.js)
 
-- [x] 3. JavaScript In Your JSX In Your JavaScript
+- [x] 3. [JavaScript In Your JSX In Your JavaScript](./Lesson2/JavaScriptInJSX.js)
 
 - [x] 4. Curly Braces in JSX
 
-- [x] 5. 20 Digits of Pi in JSX
+- [x] 5. [20 Digits of Pi in JSX](./Lesson2/20DigitsofPi-JSX.js)
 
-- [x] 6. Variables in JSX
+- [x] 6. [Variables in JSX](./Lesson2/VariablesinJSX.js)
 
-- [x] 7. Variable Attributes in JSX
+- [x] 7. [Variable Attributes in JSX](./Lesson2/VariableAttributesJSX.js)
 
-- [x] 8. Event Listeners in JSX
+- [x] 8. [Event Listeners in JSX](./Lesson2/EventListeners.js)
 
-- [x] 9. JSX Conditionals: If Statements That Don't Work
+- [x] 9. [JSX Conditionals: If Statements That Don't Work](./Lesson2/JSXConditionals.js)
 
 - [x] 10. JSX Conditionals: If Statements That Do Work
 
@@ -71,9 +71,9 @@ Exercises
 
 - [x] 12. JSX Conditionals: &&
 
-- [x] 13. .map in JSX
+- [x] 13. [.map in JSX](./Lesson2/mapInJSX.js)
 
-- [x] 14. Keys
+- [x] 14. [Keys](./Lesson2/Keys.js)
 
 - [x] 15. [React.createElement](https://reactjs.org/docs/react-api.html#react.createelement)
 
