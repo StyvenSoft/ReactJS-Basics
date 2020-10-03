@@ -231,23 +231,23 @@ Learn how to make a child component update its parent.
 
 Exercises
 
-- [x] 1. Child Components Update Their Parents' state
+- [x] 1. [Child Components Update Their Parents' state](./Lesson9/Parent.js)
 
-- [x] 2. Define an Event Handler
+- [x] 2. [Define an Event Handler](./Lesson9/DefineEventHandler.js)
 
-- [x] 3. Pass the Event Handler
+- [x] 3. [Pass the Event Handler](./Lesson9/PassEventHandler.js)
 
-- [x] 4. Receive the Event Handler
+- [x] 4. [Receive the Event Handler](./Lesson9/ReceiveEventHandler.js)
 
-- [x] 5. Automatic Binding
+- [x] 5. [Automatic Binding](./Lesson9/Step1.js)
 
-- [x] 6. One Sibling to Display, Another to Change
+- [x] 6. [One Sibling to Display, Another to Change](./Lesson9/Step2.js)
 
-- [x] 7. Pass the Right props to the Right Siblings
+- [x] 7. [Pass the Right props to the Right Siblings](./Lesson9/Sibling.js)
 
-- [x] 8. Display Information in a Sibling Component
+- [x] 8. [Display Information in a Sibling Component](./Lesson9/Step3.js)
 
-- [x] 9. Stateless Components Inherit From Stateful
+- [x] 9. [Stateless Components Inherit From Stateful](./Lesson9/StatelessComponentsChild.js)
 
 Style
 
@@ -259,15 +259,15 @@ Exercises
 
 - [x] 1. Advanced React Techniques
 
-- [x] 2. Inline Styles
+- [x] 2. [Inline Styles](./Lesson10/2.Inline-Styles/)
 
-- [x] 3. Make A Style Object Variable
+- [x] 3. [Make A Style Object Variable](./Lesson10/3.Style-Object-Variable/)
 
 - [x] 4. Style Name Syntax
 
 - [x] 5. Style Value Syntax
 
-- [x] 6. Share Styles Across Multiple Components
+- [x] 6. [Share Styles Across Multiple Components](./Lesson10/6.Styles-Across-Multiple-Components/)
 
 
 ---
