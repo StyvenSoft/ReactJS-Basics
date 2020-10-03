@@ -93,11 +93,11 @@ Exercises
 
 - [x] 3. Import ReactDOM
 
-- [x] 4. Create a Component Class
+- [x] 4. [Create a Component Class](./Lesson3/1components.js)
 
 - [x] 5. Name a Component Class
 
-- [x] 6. Component Class Instructions
+- [x] 6. [Component Class Instructions](./Lesson3/newComponent.js)
 
 - [x] 7. The Render Function
 
@@ -114,19 +114,19 @@ Apply your knowledge of JSX to React components.
 
 Exercises
 
-- [x] 1. Use Multiline JSX in a Component
+- [x] 1. [Use Multiline JSX in a Component](./Lesson4/MultilineJSX-Component.js)
 
-- [x] 2. Use a Variable Attribute in a Component
+- [x] 2. [Use a Variable Attribute in a Component](./Lesson4/VariableAttribute.js)
 
-- [x] 3. Put Logic in a Render Function
+- [x] 3. [Put Logic in a Render Function](./Lesson4/LogicRenderFunction.js)
 
-- [x] 4. Use a Conditional in a Render Function
+- [x] 4. [Use a Conditional in a Render Function](./Lesson4/ConditionalRenderFunction.js)
 
-- [x] 5. Use this in a Component
+- [x] 5. [Use this in a Component](./Lesson4/This-Component.js)
 
-- [x] 6. Use an Event Listener in a Component
+- [x] 6. [Use an Event Listener in a Component](./Lesson4/EventListenerComponent.js)
 
-- [x] 7. Components Recap
+- [x] 7. [Components React](./Lesson4/ExampleVarableAttrib.js)
 
 Components Render Other Components
 
@@ -138,15 +138,15 @@ Exercises
 
 - [x] 1. Components Interact
 
-- [x] 2. A Component in a Render Function
+- [x] 2. [A Component in a Render Function](./Lesson5/ComponentRenderFunction.js)
 
-- [x] 3. Apply a Component in a Render Function
+- [x] 3. [Apply a Component in a Render Function](./Lesson5/ApplyComponents.js)
 
-- [x] 4. Require A File
+- [x] 4. [Require A File](./Lesson5/RequireFile.js)
 
-- [x] 5. export
+- [x] 5. [export](./Lesson5/Export.js)
 
-- [x] 6. Component Rendering In Action
+- [x] 6. [Component Rendering In Action](./Lesson5/ComponentRendering.js)
 
 this.props
 
@@ -158,29 +158,29 @@ Exercises
 
 - [x] 1. this.props
 
-- [x] 2. Access a Component's props
+- [x] 2. [Access a Component's props](./Lesson6/ComponentsProps.js)
 
-- [x] 3. Pass `props` to a Component
+- [x] 3. [Pass `props` to a Component](./Lesson6/PassProps.js)
 
-- [x] 4. Render a Component's props
+- [x] 4. [Render a Component's props](./Lesson6/RenderComponent.js) 
 
-- [x] 5. Pass props From Component To Component
+- [x] 5. [Pass props From Component To Component](./Lesson6/propsFromComponent.js) 
 
-- [x] 6. Render Different UI Based on props
+- [x] 6. [Render Different UI Based on props](./Lesson6/RenderDifferentUI.js) 
 
-- [x] 7. Put an Event Handler in a Component Class
+- [x] 7. [Put an Event Handler in a Component Class](./Lesson6/EventHandler.js)
 
-- [x] 8. Pass an Event Handler as a prop
+- [x] 8. [Pass an Event Handler as a prop](./Lesson6/EventHandlerProp.js)
 
-- [x] 9. Receive an Event Handler as a prop
+- [x] 9. [Receive an Event Handler as a prop](./Lesson6/ReceiveEventHandler.js) 
 
-- [x] 10. handleEvent, onEvent, and this.props.onEvent
+- [x] 10. [handleEvent, onEvent, and this.props.onEvent](./Lesson6/PropsOnEvent.js) 
 
-- [x] 11. this.props.children
+- [x] 11. [this.props.children](./Lesson6/propsChildren.js) 
 
-- [x] 12. defaultProps
+- [x] 12. [defaultProps](./Lesson6/defaultProps.js)
 
-- [x] 13. this.props Recap
+- [x] 13. this.props React
 
 
 this.state
@@ -193,15 +193,15 @@ Exercises
 
 - [x] 1. State
 
-- [x] 2. Setting Initial State
+- [x] 2. [Setting Initial State](./Lesson7/InitialState.js) 
 
-- [x] 3. Access a Component's state
+- [x] 3. [Access a Component's state](./Lesson7/AccessComponent.js)
 
 - [x] 4. Update state with this.setState
 
-- [x] 5. Call this.setState from Another Function
+- [x] 5. [Call this.setState from Another Function](./Lesson7/CallthisSetState.js) 
 
-- [x] 6. this.setState Automatically Calls render
+- [x] 6. [this.setState Automatically Calls render](./Lesson7/hisSetState.js)  
 
 - [x] 7. Components Interacting Recap
 
@@ -217,9 +217,9 @@ Exercises
 
 - [x] 2. Build a Stateful Component Class
 
-- [x] 3. Build a Stateless Component Class
+- [x] 3. [Build a Stateless Component Class](./Lesson8/ComponentClass.js)
 
-- [x] 4. Pass a Component's State
+- [x] 4. [Pass a Component's State](./Lesson8/PassComponentState.js)
 
 - [x] 5. Don't Update props
 
