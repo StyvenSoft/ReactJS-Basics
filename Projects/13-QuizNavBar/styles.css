@@ -1,0 +1,29 @@
+html, body {
+    height: 100%;
+    background-color: #ccc;
+    text-align: center;
+    margin: 0;
+}
+
+* {
+    font-family: Helvetica, Arial, sans-serif;
+    box-sizing: border-box;
+}
+
+#app {
+    position: relative;
+    height: 100%;
+    width: 100%;
+    padding: 8px;
+}
+
+nav {
+    display: flex;
+    justify-content: space-between;
+}
+
+button {
+    border-radius: 15px;
+    padding: 6px 24px;
+    text-decoration: none;
+}
