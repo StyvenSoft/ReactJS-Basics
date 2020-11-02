@@ -21,3 +21,11 @@ div {
     padding: 20px 0 0;
     height: 100%;
 }
+
+button {
+    padding: 0.5rem;
+    border-radius: 15px;
+    background-color: rgb(255, 185, 163);
+    font-weight: 600;
+    border: 1px solid gray;
+}
